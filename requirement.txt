@@ -1,0 +1,10 @@
+# Core
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Jupyter (optional)
+jupyter
